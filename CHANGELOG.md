@@ -1,4 +1,6 @@
 # Changelog
+### [2021-02-24](https://github.com/akovtun-extenda/rss-feed-test/commit/fbbb1eac941c7878ae28c74282e4ec2ca5108857)
+  * TEST
 
 ### [2021-02-02](https://github.com/akovtun-extenda/rss-feed-test/commit/fbbb1eac941c7878ae28c74282e4ec2ca5108857)
   * Add KMS support

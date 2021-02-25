@@ -1,12 +1,12 @@
 # Changelog
 
-### [2021-02-02]()
+### [2021-02-02](https://github.com/akovtun-extenda/rss-feed-test/commit/fbbb1eac941c7878ae28c74282e4ec2ca5108857)
   * Add KMS support
 
-### [2020-11-27]()
+### [2020-11-27](https://github.com/akovtun-extenda/rss-feed-test/commit/1b30002fa76f65f9a68248e6b72eb4ad663ae20d)
   * Add Kafka-connect generator
 
-### [2020-11-10]()
+### [2020-11-10](https://github.com/akovtun-extenda/rss-feed-test/commit/97d43316cd348ef510cfa965111a389350d6a0d9)
   * Add elastic cloud generator
 
 ### 2020-10-20
